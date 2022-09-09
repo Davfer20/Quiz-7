@@ -11,7 +11,7 @@ int main()
     lista->add(&arrayIngre[1]);
     lista->add(&arrayIngre[2]);
 
-    Stack<Ingrediente> *createBurguer(vector<Ingrediente> * pIngredientes)
+    Stack<List> *createBurguer(List<lista> * pIngredientes)
     {
     }
 }
